@@ -1,2 +1,2 @@
-# python-appliction
+# GUI in python
 doc
